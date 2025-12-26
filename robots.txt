@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://infobonusdeposit.github.io/bonusdeposit100/sitemap.xml
